@@ -1,2 +1,23 @@
-# chat-websocket
-Realtime chat application built using Node.js, Express.js, and Socket.IO. Features include instant messaging, typing indicators, connected users count, and a responsive chat interface for seamless real-time communication between multiple users.
+# Realtime Chat Application
+
+A realtime chat application built using Node.js, Express, and Socket.IO.
+
+## Features
+- Realtime messaging
+- Typing indicator
+- Connected users count
+- Clean UI
+
+## Technologies Used
+- Node.js
+- Express.js
+- Socket.IO
+- HTML
+- CSS
+- JavaScript
+
+## Run Locally
+
+```bash
+npm install
+npm start
